@@ -1,0 +1,9 @@
+.container .text {
+  background-color: yellow;
+  color: red;
+}
+
+div p {
+  font-size: 20px;
+  text-align: center;
+}
